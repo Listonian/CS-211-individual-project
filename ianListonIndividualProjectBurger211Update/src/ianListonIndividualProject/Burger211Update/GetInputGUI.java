@@ -1,8 +1,7 @@
 package ianListonIndividualProject.Burger211Update;
 
 //Name: Ian Liston
-//Contact info: ian.liston@bellevuecollege.edu
-//Student ID: 950457388
+//Contact info: Listonian@ymail.com
 //Date: 11/30/2020
 //Description: Class GetInputGUI is a graphics user interface for implementing the front end page that houses java text field used for inputing user text for
 //             desired franchise country or desired franchise name.    
