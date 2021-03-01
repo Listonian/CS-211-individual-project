@@ -1,8 +1,7 @@
 package ianListonIndividualProject.Burger211Update;
 
 //Name: Ian Liston
-//Contact info: ian.liston@bellevuecollege.edu
-//Student ID: 950457388
+//Contact info: Listonian@ymail.com
 //Date: 11/30/2020
 //Description: Class MenuGUI is a graphic user Interface for implementing the front end advertising page of this program.
 //         
