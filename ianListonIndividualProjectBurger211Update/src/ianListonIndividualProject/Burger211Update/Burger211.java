@@ -1,8 +1,7 @@
 package ianListonIndividualProject.Burger211Update;
 
 //Name: Ian Liston
-//Contact info: ian.liston@bellevuecollege.edu
-//Student ID: 950457388
+//Contact info: Listonian@ymail.com
 //Date: 11/30/2020
 //Description: Abstract interface (Super class Burger211) for an advertising section of restaurant Burger211's web site. 
 //             This class also stores the main pricing, discounts, and burger names for Burger211"s flagship locations 
